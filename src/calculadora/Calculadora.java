@@ -37,4 +37,14 @@ public class Calculadora {
       return var=a/b;
        
     }
+          public static int dir(int a,int b) {
+         int var=0;
+      return var=a/b;
+       
+    }
+            public static int SUMA_3(int a,int b,int c) {
+         int suma=0;
+      return suma=a+b+c;
+       
+    }
 }
