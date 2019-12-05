@@ -20,6 +20,21 @@ public class Calculadora {
      public static int SUMA(int a,int b) {
          int suma=0;
       return suma=a+b;
-        // TODO code application logic here
+       
+    }
+      public static int mut(int a,int b) {
+         int var=0;
+      return var=a*b;
+       
+    }
+       public static int rest(int a,int b) {
+         int var=0;
+      return var=a-b;
+       
+    }
+        public static int di(int a,int b) {
+         int var=0;
+      return var=a/b;
+       
     }
 }
