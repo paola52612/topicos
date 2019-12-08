@@ -22,6 +22,8 @@ public class Calculadora {
       return suma=a+b;
        
     }
+     
+     
       public static int mut(int a,int b) {
          int var=0;
       return var=a*b;
