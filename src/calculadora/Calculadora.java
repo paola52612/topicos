@@ -17,9 +17,9 @@ public class Calculadora {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-     public static int SUMA(int a,int b) {
+     public static int SUMA(int a,int b, int c) {
          int suma=0;
-      return suma=a+b;
+      return suma=a+b+c;
        
     }
      
